@@ -26,5 +26,5 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3
         with:
           external_repository: ConnorWorrell/ConnorWorrell.github.io/RecipeProjectSite
-          TOKEN: ${{ secrets.ACCESS_TOKEN }}
+          github_token: ${{ secrets.ACCESS_TOKEN }}
           publish_dir: ./public
