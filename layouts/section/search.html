@@ -1,7 +1,7 @@
 {{ define "main" }}
 <div class="container content">
- <script src="/js/search.js"></script>
- <script src="/js/fuse.js"></script>
+ <script src="{{print .Site.BaseURL "/js/search.js" | absURL }}"></script>
+ <script src="{{print .Site.BaseURL "/js/fuse.js" | absURL }}"></script>
  <section class="post">
 	 <h1 class="post-title">Search:</h1>
 	 <input type="text" id="search-input" placeholder="" oninput="showSearchResults()">
