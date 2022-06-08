@@ -6,7 +6,7 @@ on:
       - master  # Set a branch to deploy
 
 jobs:
-  build:
+  deploy:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout master
