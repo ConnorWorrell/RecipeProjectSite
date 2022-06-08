@@ -1,6 +1,0 @@
-baseURL = 'https://ConnorWorrell.github.io/RecipeProjectSite'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = "ananke"
-[outputs]
-	home=["HTML","JSON"]
