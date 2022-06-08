@@ -23,8 +23,8 @@ jobs:
         run: hugo --minify
 
       - name: Deploy
-          uses: peaceiris/actions-gh-pages@v3
-          with:
-            external_repository: ConnorWorrell/ConnorWorrell.github.io/RecipeProjectSite
-            TOKEN: ${{ secrets.ACCESS_TOKEN }}
-            publish_dir: ./public
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          external_repository: ConnorWorrell/ConnorWorrell.github.io/RecipeProjectSite
+          TOKEN: ${{ secrets.ACCESS_TOKEN }}
+          publish_dir: ./public
