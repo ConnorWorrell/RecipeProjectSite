@@ -16,7 +16,7 @@ jobs:
           fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
 
       - name: Setup Hugo
-        uses: benmatselby/hugo-deploy-gh-pages@maste
+        uses: benmatselby/hugo-deploy-gh-pages@master
         env:
           HUGO_VERSION: 99.1
           TARGET_REPO: ConnorWorrell.github.io/RecipeProjectSite
