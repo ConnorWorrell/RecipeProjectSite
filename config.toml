@@ -12,6 +12,7 @@ enableRobotsTXT = true
 
 [params]
 	description = "Recipes Fast."
+	editOnGithubPath = "https://github.com/ConnorWorrell/RecipeProjectSite/blob/master/content/"
 
 [menu]
 [[menu.main]]
