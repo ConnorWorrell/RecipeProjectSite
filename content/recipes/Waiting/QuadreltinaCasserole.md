@@ -1,4 +1,10 @@
-# Quadreltina Casserole
+---
+
+title: "Quadreltina Casserole"
+draft: true
+tags: []
+
+---
 
 Note: this recipe is not in single serving format
 
@@ -52,5 +58,3 @@ Note: this recipe is not in single serving format
 ## Eating Later
 
 1. 
-
-Tags: 

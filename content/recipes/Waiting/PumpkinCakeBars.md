@@ -1,4 +1,10 @@
-# Pumpkin Cake Bars
+---
+
+title: "Pumpkin Cake Bars"
+draft: true
+tags: []
+
+---
 
 Note: this is not in single serving format
 
@@ -41,5 +47,3 @@ Note: this is not in single serving format
 ## Eating Later
 
 1. 
-
-Tags: 

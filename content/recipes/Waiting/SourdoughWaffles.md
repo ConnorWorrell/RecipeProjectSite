@@ -1,4 +1,10 @@
-# Name
+---
+
+title: "Sourdough Waffles"
+draft: true
+tags: [Malaysian, Soup, Shrimp, Chicken]
+
+---
 
 Makes 15 Waffels
 
@@ -39,5 +45,3 @@ Makes 15 Waffels
 ## Eating Later
 
 1. Add less cooked waffle to toaster.
-
-Tags: 

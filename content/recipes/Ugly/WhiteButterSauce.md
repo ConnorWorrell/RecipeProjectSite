@@ -1,4 +1,10 @@
-# White Butter Sauce (Beurre Blanc)
+---
+
+title: "White Butter Sauce (Burre Blanc)"
+draft: false
+tags: [Sauce, Component]
+
+---
 Note: Makes approximately 1 cup.
 
 ## Ingredients
@@ -37,5 +43,3 @@ Not recommended.
 ## Eating Later
 
 1. Mix into hot liquid (wine, meat drippings or cream)
-
-Tags: [Sauce](/Tags/Sauce.md) [Component](/Tags/Component.md) 

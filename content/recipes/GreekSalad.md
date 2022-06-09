@@ -1,5 +1,10 @@
-# Greek Salad
+---
 
+title: "Greek Salad"
+draft: false
+tags: [Salad, Side]
+
+---
 ## Ingredients
 
 | Ingredient                                                   | Standard | Standard Unit    | Weight 1 | Unit 1 | Weight 2 | Unit 2 |
@@ -51,5 +56,3 @@
 1. Mix Lettuce, Carrots, Cucumbers, Mushrooms, Tomatoes, Bell Peppers, Olives, Feta Cheese, and Dressing. 
    (If stored for more than 1 week use new mushrooms)
 2. Add to bowl. Add optional ingredients. Serve.
-
-Tags: [Salad](/Tags/Salad.md) [Side](/Tags/Side.md) 

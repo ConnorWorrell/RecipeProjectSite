@@ -1,4 +1,10 @@
-# Industrial Sourdough Starter
+---
+
+title: "Sourdough Starter (Industrial)"
+draft: false
+tags: [Sourdough Starter]
+
+---
 
 ## Ingredients
 
@@ -35,5 +41,3 @@ Note: you might need to grow your starter over a few days to have enough (doubli
 ### Yeast replacement
 Replace 1 tsp active dry yeast in recipe with 0.75 cups of starter
 Calculate: (starter volume)/1.5, subtract that ammount form the flour and water (seperately).
-
-Tags: 

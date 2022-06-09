@@ -1,12 +1,17 @@
-# Biryani
+---
 
-Serve with a cold [Kachumber Salad](/Recipes/KachumberSalad.md).
+title: "Biryani"
+draft: false
+tags: [Chicken, Indian]
+
+---
+Serve with a cold [Kachumber Salad]({{< relref "Recipes/KachumberSalad.md" >}}).
 
 ## Ingredients
 
 | Ingredient                                              | Standard | Standard Unit | Weight 1 | Unit 1 | Weight 2 | Unit 2 |
 | ------------------------------------------------------- | -------- | ------------- | -------- | ------ | -------- | ------ |
-| [Ginger garlic paste](/Recipes/GingerGarlicPaste.md)    | 0.5      | tspn.         |          |        |          |        |
+| [Ginger garlic paste]({{< relref "Recipes/GingerGarlicPaste.md" >}})    | 0.5      | tspn.         |          |        |          |        |
 | Cilantro (fresh)                                        | 0.0625   | cup           | 1        | bunch  |          |        |
 | Mint (fresh)                                            | 0.625    | cup           | 1        | bunch  |          |        |
 | Jalapeno pepper<br />Serrano pepper<br />Cayenne pepper | 1        | peppers       |          |        |          |        |
@@ -95,5 +100,3 @@ Serve with a cold [Kachumber Salad](/Recipes/KachumberSalad.md).
 ## Eating Later
 
 1. Microwave 3 mins.
-
-Tags: [Chicken](/Tags/Chicken.md) [Indian](/Tags/Indian.md) 

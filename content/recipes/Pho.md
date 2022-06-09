@@ -1,4 +1,10 @@
-# Pho
+---
+
+title: "Pho"
+draft: false
+tags: [Soup, Vietnamese, Beef]
+
+---
 
 ## Ingredients
 
@@ -57,6 +63,3 @@
 1. Unwrap Rice Noodle ball. Add to bowl. Add beef and stock. Microwave (high, 7 min).
 2. Place beef, bean sprouts, lemon, chilies, fresh herbs, Hosin Sauce, and Chili Sauce on top of soup.
 3. Serve.
-
-Tags: [Soup](/Tags/Soup.md) [Vietnamese](/Tags/Vietnamese.md) [Beef](/Tags/Beef.md) 
-

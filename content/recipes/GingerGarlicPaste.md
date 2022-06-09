@@ -1,6 +1,12 @@
-# Ginger Garlic Paste
+---
 
-This recipe is a component of the [Biryani](/Recipes/Biryani.md) recipe. This recipe will make approximately 1 cup (10 fl oz, 16 tbsp.), making less than this is not recommended since it becomes difficult to blend small amounts.
+title: "Ginger Garlic Paste"
+draft: false
+tags: [Component]
+
+---
+
+This recipe is a component of the [Biryani]({{< relref "/Recipes/Biryani.md" >}}) recipe. This recipe will make approximately 1 cup (10 fl oz, 16 tbsp.), making less than this is not recommended since it becomes difficult to blend small amounts.
 
 ## Ingredients
 
@@ -35,5 +41,3 @@ This recipe is a component of the [Biryani](/Recipes/Biryani.md) recipe. This re
 ## Eating Later
 
 1. Use frozen cube in recipe.
-
-Tags: [Component](/Tags/Component.md) 

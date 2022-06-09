@@ -1,5 +1,10 @@
-# Beef Burritos
+---
 
+title: "Beef Burritos"
+draft: false
+tags: [Mexican, Beef]
+
+---
 ## Ingredients
 
 | Ingredient                        | Standard | Standard Unit | Weight 1 | Unit 1 | Weight 2 | Unit 2 |
@@ -51,5 +56,3 @@
 2. Wet paper towel, place tortilla inside. Microwave (15 sec).
 3. Assemble burrito (Tortilla, Refried Beans, Jalapeno Mixture, Lettuce, Sour Cream, Cheddar Cheese).
 4. Fold. Serve.
-
-Tags: [Mexican](/Tags/Mexican.md) [Beef](/Tags/Beef.md) 

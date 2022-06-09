@@ -1,4 +1,10 @@
-# Franken Waffles
+---
+
+title: "Franken Waffles"
+draft: true
+tags: []
+
+---
 
 ## Ingredients
 
@@ -49,5 +55,3 @@ Note: You may need to hold the waffle iron shut, the egg tends to expand and ope
 ## Eating Later
 
 1. 
-
-Tags: 

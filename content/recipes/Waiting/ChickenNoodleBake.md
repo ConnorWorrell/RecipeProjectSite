@@ -1,4 +1,10 @@
-# Chicken Noodle Bake
+---
+
+title: "Chicken Noodle Bake"
+draft: true
+tags: []
+
+---
 
 Note: this is not in single serving format
 
@@ -46,5 +52,3 @@ Note: this is not in single serving format
 ## Eating Later
 
 1. 
-
-Tags: 

@@ -1,4 +1,10 @@
-# Grilled Cheese
+---
+
+title: "Grilled Cheese"
+draft: false
+tags: [Cheese]
+
+---
 
 Note, these servings are quite small, you might want to cook 2 sandwiches. I highly recommend something healthy to go with this like a salad.
 
@@ -51,5 +57,3 @@ Note, these servings are quite small, you might want to cook 2 sandwiches. I hig
 1. Assemble sandwich (Bread, Cheddar (2 slice), Cream Cheese Mixture (48 g, 1.7 oz), Provolone (2 slice), Bread).
 2. Brush bread with Mayonnaise Mixture (13 g per side).
 3. Grill sandwich (2 min), flip, grill (2 min). Bread should be golden brown.
-
-Tags: [Cheese](/Tags/Cheese.md) 

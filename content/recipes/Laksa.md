@@ -1,11 +1,17 @@
-# Laksa - Malaysian Coconut Curry Soup
+---
+
+title: "Laksa - Malaysian Coconut Curry Soup"
+draft: false
+tags: [Malaysian, Soup, Shrimp, Chicken]
+
+---
 
 ## Ingredients
 
 | Ingredient                                                   | Standard       | Standard Unit    | Weight 1    | Unit 1   | Weight 2   | Unit 2     |
 | ------------------------------------------------------------ | -------------- | ---------------- | ----------- | -------- | ---------- | ---------- |
 | Oil (veg.)                                                   | 0.38           | tbsp.            |             |          |            |            |
-| [Laksa Paste](/Recipes/LaksaPaste.md)<br />Store Bought Laksa Paste (7 oz) | 0.13<br />0.25 | recipe<br />jar  | <br />50    | <br />g  | <br />1.75 | <br />oz   |
+| [Laksa Paste]({{< relref "/Recipes/LaksaPaste.md" >}})<br />Store Bought Laksa Paste (7 oz) | 0.13<br />0.25 | recipe<br />jar  | <br />50    | <br />g  | <br />1.75 | <br />oz   |
 | Chicken Stock or Broth                                       | 0.75           | cup              | 177         | g        | 6.26       | oz         |
 | Kefir Lime Leaves                                            | 1              | leaves           |             |          |            |            |
 | Salt                                                         | 0.13           | tspn.            |             |          |            |            |
@@ -58,5 +64,3 @@
 4. Add cold soup (6 oz, 117 g) to bowl.
 5. Microwave (high, 7min).
 6. Add optional ingredients.
-
-Tags: [Malaysian](/Tags/Malaysian.md) [Soup](/Tags/Soup.md) [Shrimp](/Tags/Shrimp.md) [Chicken](/Tags/Chicken.md) 

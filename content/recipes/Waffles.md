@@ -1,4 +1,10 @@
-# Waffles
+---
+
+title: "Waffles"
+draft: false
+tags: [Breakfast]
+
+---
 
 Note: 1 serving is 1 waffle (0.2 cups batter).
 
@@ -41,5 +47,3 @@ Note: 1 serving is 1 waffle (0.2 cups batter).
 ## Eating Later
 
 1. Add less cooked waffle to toaster.
-
-Tags: [Breakfast](/Tags/Breakfast.md) 

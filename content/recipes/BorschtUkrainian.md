@@ -1,3 +1,10 @@
+---
+
+title: "Borscht (Ukrainian)"
+draft: false
+tags: [Soup, Ukrainian]
+
+---
 # Borscht (Ukrainian)
 
 ## Ingredients
@@ -51,5 +58,3 @@
 ## Eating Later
 
 1. Add to bowl (300 g, 10 oz). Microwave (high, 7 min).
-
-Tags: [Soup](/Tags/Soup.md) [Ukrainian](/Tags/Ukrainian.md) 

@@ -1,5 +1,10 @@
-# Red Curry (Thai)
+---
 
+title: "Red Curry (Thai)"
+draft: false
+tags: [Chicken, Taiwanese]
+
+---
 ## Ingredients
 
 | Ingredient                                        | Standard  | Standard Unit    | Weight 1 | Unit 1 | Weight 2 | Unit 2 |
@@ -54,5 +59,3 @@
 
 1. Thaw if frozen, microwave curry and rice separately.
 2. Combine and serve.
-
-Tags: [Chicken](/Tags/Chicken.md) [Taiwanese](/Tags/Taiwanese.md) 

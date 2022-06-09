@@ -1,3 +1,10 @@
+---
+
+title: "Cheese Burger"
+draft: false
+tags: [Hamburger, Beef]
+
+---
 # Cheese Burger
 
 ## Ingredients
@@ -53,5 +60,3 @@
 2. Microwave (med-high) patty (1min) or until sizzling.
 3. Toast Hamburger Buns (grill or toaster).
 4. Assemble Burger (bottom bun, mustard, patty, pickle, cheese, top bun).
-
-Tags: [Hamburger](/Tags/Hamburger.md) [Beef](/Tags/Beef.md) 

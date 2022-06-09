@@ -1,3 +1,10 @@
+---
+
+title: "Kachumber Salad"
+draft: false
+tags: [Salad, Indian]
+
+---
 # Kachumber Salad
 
 ## Ingredients
@@ -31,5 +38,3 @@
 ## Eating Later
 
 1. Serve.
-
-Tags: [Salad](/Tags/Salad.md) [Indian](/Tags/Indian.md) 

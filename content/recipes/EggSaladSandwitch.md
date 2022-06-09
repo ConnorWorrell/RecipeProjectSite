@@ -1,4 +1,10 @@
-# Egg Salad Sandwitch
+---
+
+title: "Egg Salad Sandwitch"
+draft: false
+tags: []
+
+---
 
 ## Ingredients
 
@@ -40,5 +46,3 @@
 ## Eating Later
 
 1. 
-
-Tags: 

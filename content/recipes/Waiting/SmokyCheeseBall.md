@@ -1,4 +1,10 @@
-# Smoky Cheese Ball
+---
+
+title: "Smoky Cheese Ball"
+draft: true
+tags: []
+
+---
 
 Note: this recipe is not in single serving format
 
@@ -35,5 +41,3 @@ Note: this recipe is not in single serving format
 ## Eating Later
 
 1. 
-
-Tags: 

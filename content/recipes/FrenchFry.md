@@ -1,3 +1,10 @@
+---
+
+title: "French Fry"
+draft: false
+tags: []
+
+---
 # Name French Fry
 
 ## Ingredients
@@ -42,5 +49,3 @@
 ## Eating Later
 
 1. Microwave and eat.
-
-Tags: 

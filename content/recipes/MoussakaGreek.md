@@ -1,6 +1,12 @@
-# Moussaka (Greek)
+---
 
-Try this with a [Greek Salad](/Recipes/GreekSalad.md).
+title: "Moussaka (Greek)"
+draft: false
+tags: [Greek, Beef]
+
+---
+
+Try this with a [Greek Salad]({{< relref "/Recipes/GreekSalad.md" >}}).
 
 ## Ingredients
 
@@ -71,5 +77,3 @@ Try this with a [Greek Salad](/Recipes/GreekSalad.md).
 
 1. Remove serving from refrigerated pan. Microwave (medium, 4 min).
 2. Add herbs and olive oil.
-
-Tags: [Greek](/Tags/Greek.md) [Beef](/Tags/Beef.md) 

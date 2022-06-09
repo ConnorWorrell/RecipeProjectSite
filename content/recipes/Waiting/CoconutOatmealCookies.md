@@ -1,4 +1,10 @@
-# Coconut Oatmeal Cookies
+---
+
+title: "Coconut Oatmeal Cookies"
+draft: true
+tags: []
+
+---
 
 ## Ingredients
 
@@ -37,5 +43,3 @@
 ## Eating Later
 
 1. 
-
-Tags: 

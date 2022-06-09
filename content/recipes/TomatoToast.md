@@ -1,4 +1,10 @@
-# Tomato Toast
+---
+
+title: "Tomato Toast"
+draft: false
+tags: [Toast]
+
+---
 
 ## Ingredients
 
@@ -31,5 +37,3 @@
 ## Eating Later
 
 1. No.
-
-Tags: [Toast](/Tags/Toast.md) 

@@ -1,6 +1,12 @@
-# Laksa Paste
+---
 
-Note: This is a component for a recipe ([Laksa](/Recipes/Laksa.md)), so the serving size may be incorrect, check the weight of the Laksa Paste that the recipe requires, and make adjustments to the ingredient count to match it.
+title: "Laksa Paste"
+draft: false
+tags: [Component]
+
+---
+
+Note: This is a component for a recipe ([Laksa]({{< relref "/Recipes/Laksa.md" >}})), so the serving size may be incorrect, check the weight of the Laksa Paste that the recipe requires, and make adjustments to the ingredient count to match it.
 
 ## Ingredients
 
@@ -35,5 +41,3 @@ Note: This is a component for a recipe ([Laksa](/Recipes/Laksa.md)), so the serv
 4. Add oil to Food Processor or Blender. Blend until paste.
 
 Use imminently or store in a jar in fridge.
-
-Tags: [Component](/Tags/Component.md) 

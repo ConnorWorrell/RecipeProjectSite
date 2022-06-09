@@ -1,5 +1,10 @@
-# Name French Fry Battered
+---
 
+title: "French Fry Battered"
+draft: false
+tags: []
+
+---
 ## Ingredients
 
 |      Ingredient         | Standard | Standard Unit | Weight 1 | Unit 1 | Weight 2 | Unit 2 |
@@ -47,5 +52,3 @@
 ## Eating Later
 
 1. Microwave and eat.
-
-Tags: 

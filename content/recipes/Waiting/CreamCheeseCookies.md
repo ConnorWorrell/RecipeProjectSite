@@ -1,4 +1,10 @@
-# Cream Cheese Cookies
+---
+
+title: "Cream Cheese Cookies"
+draft: true
+tags: []
+
+---
 
 Note this recipe makes 6 dozen cookies.
 
@@ -42,5 +48,3 @@ Note this recipe makes 6 dozen cookies.
 ## Eating Later
 
 1. 
-
-Tags: 

@@ -1,4 +1,10 @@
-# Castella Cake
+---
+
+title: "Castella Cake"
+draft: false
+tags: []
+
+---
 
 Note, makes 4-5 servings, 1 cake.
 
@@ -45,5 +51,3 @@ Note, makes 4-5 servings, 1 cake.
 ## Eating Later
 
 1. Eat.
-
-Tags: 

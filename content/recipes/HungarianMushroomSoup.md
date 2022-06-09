@@ -1,4 +1,10 @@
-# Hungarian Mushroom Soup
+---
+
+title: "Hungarian Mushroom Soup"
+draft: false
+tags: []
+
+---
 
 ## Ingredients
 
@@ -47,5 +53,3 @@
 ## Eating Later
 
 1. 
-
-Tags: 
