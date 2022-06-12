@@ -1,5 +1,5 @@
 title = "The Recipe Project"
-baseURL = ''
+baseURL = 'therecipeproject.net/'
 languageCode = 'en-us'
 theme = "ananke"
 
