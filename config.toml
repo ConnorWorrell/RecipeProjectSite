@@ -3,7 +3,7 @@ baseURL = 'https://therecipeproject.net/'
 languageCode = 'en-us'
 theme = "ananke"
 
-enableRobotsTXT = true
+enableRobotsTXT = false
 
 [outputs]
 	home=["HTML","JSON"]
