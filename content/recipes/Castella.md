@@ -21,7 +21,7 @@ Note, makes 4-5 servings, 1 cake.
 
 |        Object        | (Optional) |
 |        ------        | ---------- |
-| Mixing Bowl          | No         |
+| Countertop Mixer          | Yes (Highly recommended)        |
 | Baking Tin           | No         |
 | Parchment Paper      | No         |
 | Aluminum Foil        | No         |
@@ -29,16 +29,18 @@ Note, makes 4-5 servings, 1 cake.
 ## Instructions
 
 1. Preheat oven to 180 C or 355 F.
-2. Beat eggs and sugar until volume 4x.
-3. Add honey, whisk 30s.
-4. Add flour in 33g incriments, wisk inbetween, wisk 1 min.
-5. Apply parchment paper to baking tin, pour mixture in.
-6. Pop all large bubbles.
-7. Bake 13 mins.
-8. Set oven to 170 C or 340 F, cover with aluminum foil, bake 55 mins.
-9. Toothpick should come out clean. 
-10. Put cake in plastic bag, wait 12 hours.
-11. Remove cake edges.
+2. Seperate egg whites and yolks.
+3. Beat egg whites and sugar until volume 4x and stiff peaks.
+4. Add honey, whisk 30s.
+5. Add egg yolks.
+6. Add flour in 33g incriments, wisk inbetween, wisk 1 min.
+7. Apply parchment paper to baking tin, pour mixture in.
+8. Pop all large bubbles.
+9. Bake 13 mins.
+10. Set oven to 170 C or 340 F, cover with aluminum foil, bake 55 mins.
+11. Toothpick should come out clean. 
+12. Put cake in plastic bag, wait 12 hours.
+13. Remove cake edges.
 
 ## Eating Now
 
